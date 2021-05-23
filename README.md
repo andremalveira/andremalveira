@@ -3,6 +3,11 @@
   <span> - 👋 Hi, I’m @andremalveira  </span>
   <br />
   <span>- 👀 I’m interested in ...  </span>
+  <br />
+    <span>- 👀 I’m interested in ...  </span>
+  <br />
+    <span>- 👀 I’m interested in ...  </span>
+  <br />
 </span>
   
 <a href="https://github.com/andremalveira">
