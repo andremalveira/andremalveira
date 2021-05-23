@@ -1,14 +1,6 @@
 
-<span>
-  <span>
-    <span> - 👋 Hi, I’m @andremalveira  </span>
-    <span>- 👀 I’m interested in ...  </span>
-  </span>
-</span>
-  
-<a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremalveira&layout=compact&theme=dark" />
-</a>
+- 👋 Hi, I’m @andremalveira
+- My lang is pt-br
 
 
 
