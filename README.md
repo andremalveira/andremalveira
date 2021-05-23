@@ -1,6 +1,7 @@
 
 <span>
-  <span> - 👋 Hi, I’m @andremalveira  </span><br>
+  <span> - 👋 Hi, I’m @andremalveira  </span>
+  <br />
   <span>- 👀 I’m interested in ...  </span>
 </span>
   
