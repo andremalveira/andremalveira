@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 ![alt text](https://andremalveira.github.io/andremalveira/src/readme.svg)
+=======
+>>>>>>> 21ca447b1ef8583a616c297db4e189246ac2db5f
 - 👋 Hi, I’m @andremalveira, A guy who loves technology, loves graphic design, web development and games, every day learning a little more about programming and design.
 
 - I have experience in HTML, CSS and a little bit of JS.
