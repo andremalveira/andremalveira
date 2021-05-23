@@ -1,5 +1,5 @@
 
-<span>
+<span display="inline-grid">
   <span> - 👋 Hi, I’m @andremalveira  </span>
   <span>- 👀 I’m interested in ...  </span>
 </span>
