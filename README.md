@@ -1,12 +1,10 @@
-<a href="#">
+
   <span align="center"> 
 - 👋 Hi, I’m @andremalveira
 - 👀 I’m interested in ...
-
-- My lang is pt-br
   
   </span>
-</a>
+
 <a href="https://github.com/andremalveira">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremalveira&layout=compact&theme=dark)" />
 </a>
