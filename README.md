@@ -5,7 +5,10 @@
 - My lang is pt-br
 - 
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andremalveira&layout=compact&theme=dark)](https://github.com/andremalveira)
+<a href="https://github.com/andremalveira">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremalveira&layout=compact&theme=dark)" />
+</a>
+
 
 
 <!---
