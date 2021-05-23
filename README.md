@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 
 - My lang is pt-br
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andremalveira&layout=compact)]
+(https://github-readme-stats.vercel.app/api/top-langs/?username=andremalveira&layout=compact)
 
 <!---
 andremalveira/andremalveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
