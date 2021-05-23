@@ -1,4 +1,4 @@
-![alt text](https://andremalveira.github.io/andremalveira/src/about.svg)
+[![Readme](https://andremalveira.github.io/andremalveira/src/about.svg)](https://github.com/andremalveira)
 
 
 - 👋 Hi, I’m @andremalveira, A guy who loves technology, loves graphic design, web development and games, every day learning a little more about programming and design.
