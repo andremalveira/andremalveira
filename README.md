@@ -5,9 +5,9 @@
   
   </span>
 
-<a href="https://github.com/andremalveira">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremalveira&layout=compact&theme=dark)" />
-</a>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andremalveira&layout=compact&theme=dark)](https://github.com/andremalveira)
+
 
 
 
