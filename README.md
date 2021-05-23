@@ -7,6 +7,10 @@
 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andremalveira&layout=compact&theme=dark)](https://github.com/andremalveira)
+  
+  <a href="https://github.com/anuraghazra/convoychat">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andremalveira&layout=compact&theme=dark)](https://github.com/andremalveira)
+</a>
 
 
 
