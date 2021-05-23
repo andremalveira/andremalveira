@@ -1,8 +1,8 @@
 
-<ul>
+<span>
   <span> - 👋 Hi, I’m @andremalveira  </span>
   <span>- 👀 I’m interested in ...  </span>
-</ul>
+</span>
   
 <a href="https://github.com/andremalveira">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremalveira&layout=compact&theme=dark" />
