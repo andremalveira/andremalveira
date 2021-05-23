@@ -4,7 +4,7 @@
 - My lang is pt-br
 
 <a href="https://github.com/andremalveira/toggleModeDark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andremalveira&repo=toggleModeDark&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andremalveira&repo=toggleModeDark&theme=dark" />
 </a>
 <a href="https://github.com/andremalveira/styleForTagCode">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andremalveira&repo=styleForTagCode&theme=dracula" />
