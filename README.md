@@ -1,7 +1,9 @@
 
-<span display="inline-grid">
-  <span> - 👋 Hi, I’m @andremalveira  </span>
-  <span>- 👀 I’m interested in ...  </span>
+<span>
+  <span display="inline-grid">
+    <span> - 👋 Hi, I’m @andremalveira  </span>
+    <span>- 👀 I’m interested in ...  </span>
+  </span>
 </span>
   
 <a href="https://github.com/andremalveira">
