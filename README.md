@@ -3,9 +3,9 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm André Malveira - @andremalveira</h1>
 
-Junior Web Developer<br>
-Learning every day<br>
-My hobbies are playing the guitar acoustic and rollerblading<br>
+- Junior Web Developer<br>
+- Learning every day<br>
+- My hobbies are playing the guitar acoustic and rollerblading<br>
 
 ## Social Networks:  
   <a href="https://instagram.com/andremalveira/"><img src="https://img.shields.io/badge/-Instagram-424242?style=flat&logo=instagram" />⠀</a>
@@ -32,7 +32,7 @@ My hobbies are playing the guitar acoustic and rollerblading<br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andremalveira&repo=Astronaut.Library.js&theme=city_lights" />
 </a>
 <a href="https://github.com/andremalveira/api-php-mvc-firebase-vercel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andremalveira&repo=api-php-mvc-firebase-vercel&theme=tokyonight " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andremalveira&repo=api-php-mvc-firebase-vercel&theme=city_lights " />
 </a>
 </p>
 
