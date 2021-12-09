@@ -3,20 +3,15 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm André Malveira - @andremalveira</h1>
 
-### Junior Web Developer
-### Learning every day
-### My hobbies are playing the guitar acoustic and rollerblading
-<br>
+Junior Web Developer<br>
+Learning every day<br>
+My hobbies are playing the guitar acoustic and rollerblading<br>
 
-### Social Networks:  
-
+## Social Networks:  
   <a href="https://instagram.com/andremalveira/"><img src="https://img.shields.io/badge/-Instagram-424242?style=flat&logo=instagram" />⠀</a>
   <a href="https://discord.gg/zJV8FvcFQu"><img src="https://img.shields.io/badge/-Discord-424242?style=flat&logo=discord" />⠀</a>
   <a href="https://github.com/andremalveira"><img src="https://img.shields.io/badge/-Github-424242?style=flat&logo=github" />⠀</a>
   <a href="https://www.linkedin.com/in/andremalveira/"><img src="https://img.shields.io/badge/-Linkedin-424242?style=flat&logo=linkedin" />⠀</a>
-
-
-<br>
 
 ## <p align="left">Stacks</p>
 <p align="left">
@@ -30,8 +25,6 @@
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-282828?style=flat&logo=visual-studio-code&logoColor=007ACC" />⠀
 </p>
 
-<br>
-
  ### Featured Projects 
  <br>
 <p align="center">
@@ -42,8 +35,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andremalveira&repo=api-php-mvc-firebase-vercel&theme=tokyonight " />
 </a>
 </p>
-
-<br>
 
 
 
