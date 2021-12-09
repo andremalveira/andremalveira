@@ -4,8 +4,8 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm André Malveira - @andremalveira</h1>
 
-| <p align="">Junior Web Developer</p><p align="">Learning every day</p><p align="">My hobbies are playing the guitar acoustic and rollerblading</p> | <p align="">Social Networks: </p><p align=""><a href="https://instagram.com/andremalveira/"><img src="https://img.shields.io/badge/-Instagram-424242?style=flat&logo=instagram" />⠀</a><a href="https://discord.gg/zJV8FvcFQu"><img src="https://img.shields.io/badge/-Discord-424242?style=flat&logo=discord" />⠀</a><a href="https://github.com/andremalveira"><img src="https://img.shields.io/badge/-Github-424242?style=flat&logo=github" />⠀</a><a href="https://www.linkedin.com/in/andremalveira/"><img src="https://img.shields.io/badge/-Linkedin-424242?style=flat&logo=linkedin" />⠀</a></p> |
-| ------------- | ------------- |
+| <p align="left">Junior Web Developer</p><p align="left">Learning every day</p><p align="left">My hobbies are playing the guitar acoustic and rollerblading</p> | <p align="left">Social Networks: </p><p align=""><a href="https://instagram.com/andremalveira/"><img src="https://img.shields.io/badge/-Instagram-424242?style=flat&logo=instagram" />⠀</a><a href="https://discord.gg/zJV8FvcFQu"><img src="https://img.shields.io/badge/-Discord-424242?style=flat&logo=discord" />⠀</a><a href="https://github.com/andremalveira"><img src="https://img.shields.io/badge/-Github-424242?style=flat&logo=github" />⠀</a><a href="https://www.linkedin.com/in/andremalveira/"><img src="https://img.shields.io/badge/-Linkedin-424242?style=flat&logo=linkedin" />⠀</a></p> |
+| --------------- | --------------- |
 
 ## <p align="center">Stacks</p>
 <p align="center">
