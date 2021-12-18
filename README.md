@@ -15,7 +15,7 @@
 <br>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-HTML-424242?style=flat&logo=HTML5" />⠀<img src="https://img.shields.io/badge/-CSS-424242?style=flat&logo=CSS3&logoColor=1572B6" />⠀<img src="https://img.shields.io/badge/-JavaScript-424242?style=flat&logo=javascript" />⠀<img src="https://img.shields.io/badge/-PHP-424242?style=flat&logo=php" />⠀<img src="https://img.shields.io/badge/-Git-424242?style=flat&logo=git" />⠀<img src="https://img.shields.io/badge/-GitHub-424242?style=flat&logo=github" />⠀<img src="https://img.shields.io/badge/-Markdown-424242?style=flat&logo=markdown" />⠀<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-424242?style=flat&logo=visual-studio-code&logoColor=007ACC" />⠀
+  <img src="https://img.shields.io/badge/-HTML-424242?style=flat&logo=HTML5" />⠀<img src="https://img.shields.io/badge/-CSS-424242?style=flat&logo=CSS3&logoColor=1572B6" />⠀<img src="https://img.shields.io/badge/-JavaScript-424242?style=flat&logo=javascript" />⠀<img src="https://img.shields.io/badge/-Next.js-424242?style=flat&logo=next.js" />⠀<img src="https://img.shields.io/badge/-PHP-424242?style=flat&logo=php" />⠀<img src="https://img.shields.io/badge/-Git-424242?style=flat&logo=git" />⠀<img src="https://img.shields.io/badge/-GitHub-424242?style=flat&logo=github" />⠀<img src="https://img.shields.io/badge/-Markdown-424242?style=flat&logo=markdown" />⠀<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-424242?style=flat&logo=visual-studio-code&logoColor=007ACC" />⠀
 </p>
 
 <!--  ### Featured Projects 
