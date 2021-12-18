@@ -18,11 +18,11 @@
   <img src="https://img.shields.io/badge/-HTML-424242?style=flat&logo=HTML5" />⠀<img src="https://img.shields.io/badge/-CSS-424242?style=flat&logo=CSS3&logoColor=1572B6" />⠀<img src="https://img.shields.io/badge/-JavaScript-424242?style=flat&logo=javascript" />⠀<img src="https://img.shields.io/badge/-PHP-424242?style=flat&logo=php" />⠀<img src="https://img.shields.io/badge/-Git-424242?style=flat&logo=git" />⠀<img src="https://img.shields.io/badge/-GitHub-424242?style=flat&logo=github" />⠀<img src="https://img.shields.io/badge/-Markdown-424242?style=flat&logo=markdown" />⠀<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-424242?style=flat&logo=visual-studio-code&logoColor=007ACC" />⠀
 </p>
 
- ### Featured Projects 
+<!--  ### Featured Projects 
 <p align="center">
 <a href="https://github.com/andremalveira/Astronaut.Library.js"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andremalveira&repo=Astronaut.Library.js&theme=city_lights" alt="Anurag's github stats" /></a>⠀
 <a href="https://github.com/andremalveira/api-php-mvc-firebase-vercel"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andremalveira&repo=api-php-mvc-firebase-vercel&theme=city_lights" /></a> 
-</p>
+</p> -->
 
 
 
