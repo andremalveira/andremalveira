@@ -4,14 +4,11 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm André Malveira - @andremalveira </h1>
 
-JavaScript Developer<br>
-> Learning every day.
-> <br><br>
-> My hobbies are answering code queries in programming communities, developing open source code, playing games, rollerblading and playing the guitar.
-<br>
-<br>
+### JavaScript Developer<br>
+> #### Learning every day.
+> #### My hobbies are answering code queries in programming communities, developing open source code, playing games, rollerblading and playing the guitar.
 
-⭐ [MYFEATURES.md](https://github.com/andremalveira/andremalveira/blob/main/MYFEATURES.md)
+🧾 [MYFEATURES.md](https://github.com/andremalveira/andremalveira/blob/main/MYFEATURES.md)
 
 <br/>
 
