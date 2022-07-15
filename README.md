@@ -16,5 +16,4 @@ My hobbies are answering code queries in programming communities, developing ope
 <p align="left">
   <a href="https://instagram.com/andremalveira/"><img src="https://img.shields.io/badge/-Instagram-424242?style=flat&logo=instagram" /></a>
   <a href="https://www.linkedin.com/in/andremalveira/"><img src="https://img.shields.io/badge/-Linkedin-424242?style=flat&logo=linkedin" /></a>
-   <a href="https://discord.gg/zJV8FvcFQu"><img src="https://img.shields.io/badge/-Discord-424242?style=flat&logo=discord" /></a>
 </p>
