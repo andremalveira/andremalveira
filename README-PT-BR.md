@@ -5,5 +5,5 @@ Olá, meu nome é André, sou desenvolvedor JavaScript e atualmente trabalho com
 > [Color Palette](https://palettes.andev.ml) 
 <br/>
 
-[README EN-US.md](https://github.com/andremalveira/andremalveira/blob/main/README-EN-US.md)<br/>
+[README.md](https://github.com/andremalveira/andremalveira/blob/main/README.md)<br/>
 [MYFEATURES.md](https://github.com/andremalveira/andremalveira/blob/main/MYFEATURES.md)
