@@ -11,7 +11,7 @@
  > - [Next.js](https://nextjs.org) - Framework to React
  
 - ### Packages
- > - [Geist-Ui](https://react.geist-ui.dev/en-us/guide/installation) - Vercel Design Components 
+ > - [Geist-Ui](https://geist-ui.dev/en-us/components/text) - Vercel Design Components 
  >   - ```npm i @geist-ui/react```
  >   - ```npm i @geist-ui/react-icons```
  > - [Styled Components](https://styled-components.com/docs/basics#installation) - CSS in JavaScript
