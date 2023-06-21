@@ -1,1 +1,8 @@
 title: André Malveira
+author:
+  name: André Malveira
+  email: andremalveira.dev@gmail.com
+description: JavaScript developer
+
+plugins:
+  - jekyll-seo-tag
