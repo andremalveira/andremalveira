@@ -2,7 +2,9 @@ title: André Malveira
 author:
   name: André Malveira
   email: andremalveira.dev@gmail.com
-description: JavaScript developer
+description: JavaScript Developer - ReactJS | NextJS | Angular
+
+theme: minima
 
 plugins:
   - jekyll-seo-tag
