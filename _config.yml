@@ -4,7 +4,5 @@ author:
   email: andremalveira.dev@gmail.com
 description: JavaScript Developer - ReactJS | NextJS | Angular
 
-theme: minima
-
 plugins:
   - jekyll-seo-tag
