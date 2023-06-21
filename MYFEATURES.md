@@ -11,15 +11,8 @@
  > - [Phaser](https://phaser.io/)
  > - [Bootstrap](https://getbootstrap.com/)
  
-<<<<<<< HEAD
 - ### Packages Libraries
  > - [Axios](https://axios-http.com/ptbr/docs/intro) - Http Client
-=======
-- ### Packages
- > - [Geist-Ui](https://geist-ui.dev/en-us/components/text) - Vercel Design Components 
- >   - ```npm i @geist-ui/react```
- >   - ```npm i @geist-ui/react-icons```
->>>>>>> 146fb002995543d6fb9be7bd5a5145de3e86137c
  > - [Styled Components](https://styled-components.com/docs/basics#installation) - CSS in JavaScript
  > - [Stitches](https://stitches.dev/) - CSS in JavaScript
  > - [Sass](https://sass-lang.com/) - Extension Language for CSS
@@ -39,8 +32,10 @@
 
 - ### Tools
  > - [VSCode](https://code.visualstudio.com)  - Code Editor
-<<<<<<< HEAD
- > - [Node.js](https://nodejs.org/en/about) - Server Environment
+ > - [Node.js](https://nodejs.org/en/about) - JavaScript Runtime and Server Environment
  > - [Vite](https://vitejs.dev/) - Development Server and Project Build
-=======
->>>>>>> 146fb002995543d6fb9be7bd5a5145de3e86137c
+
+ - ### Initial Project Templates
+ > - [Monorepo](https://github.com/andremalveira/pnpm-monorepo-example)
+ > - [Npm Package](https://github.com/andremalveira/vite-package-example)
+ > - [HTML5 Game](https://github.com/andremalveira/vite-phaser3-example)
