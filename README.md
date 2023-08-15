@@ -2,6 +2,7 @@ Hello, my name is André, I'm a JavaScript developer and I'm currently working w
 
 ⭐ Last personal projects ⭐  <br/> 
 > [Color Palette](https://palettes.andev.gq) 
+> [Links Profile](https://links.andev.gq/andremalveira) - Old name (deev)
 <br/>
 
 [Features that i use](features-that-i-use.md)<br/>
