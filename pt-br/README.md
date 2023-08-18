@@ -2,7 +2,9 @@ Olá, meu nome é André, sou desenvolvedor JavaScript e atualmente trabalho com
 
 ⭐ Últimos projetos pessoais ⭐ <br/> 
 > [Color Palette](https://palettes.andev.gq) <br/> 
-> [Links Profile](https://links.andev.gq/andremalveira) - Nome antigo (deev)
+> [Links Profile](https://links.andev.gq/andremalveira) - Nome antigo (deev)<br/>
+> [Sharin](https://sharin.gq/)  <br/>
+> [Astlibjs](https://astlibjs.andev.gq/)  <br/>
 <br/>
 
 [Recursos que uso](recursos-que-uso.md)<br/>
