@@ -11,6 +11,4 @@ Hello, my name is André, I'm a JavaScript developer and I'm currently working w
 [Features that i use](features-that-i-use.md)<br/>
 [PT-BR](pt-br/)<br/>
 
-<p>
-  <img style="background-color: transparent" src="https://wakatime.com/share/@andremalveira/01196963-79a3-4e2f-810c-589d80cdae65.svg" />
-</p>
+<img style="width: 100%; background-color: transparent" src="https://wakatime.com/share/@andremalveira/01196963-79a3-4e2f-810c-589d80cdae65.svg" />
